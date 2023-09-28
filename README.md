@@ -1,2 +1,2 @@
-# AdvML.jl
+# AdversarialML.jl
 Adversarial ML algorithms in Julia
