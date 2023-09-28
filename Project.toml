@@ -1,0 +1,4 @@
+name = "AdversarialML"
+uuid = "4b510e8c-648a-4291-97ab-3c35c1d671ce"
+authors = ["Zheguang Zhao <zheguang.zhao@alumni.brown.edu>"]
+version = "0.1.0"
